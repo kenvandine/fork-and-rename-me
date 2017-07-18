@@ -1,22 +1,21 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
+  <img src="quadrapassel.svg" alt="quadrapassel">
   <br />
-  [Project]
+  quadrapassel
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
-distributions.</p>
+<p align="center"><b>This is the snap for quadrapassel</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
-<a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
+<a href="https://build.snapcraft.io/user/snapcrafters/quadrapassel"><img src="https://build.snapcraft.io/badge/snapcrafters/quadrapassel.svg" alt="Snap Status"></a>
 </p>
 -->
 
 ## Install
 
     sudo apt install snapd-xdg-open
-    sudo snap install my-snap-name
+    sudo snap install quadrapassel
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
@@ -30,19 +29,19 @@ distributions.</p>
 
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
-the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Project] can authoritatively publish future releases.
+the [snapcraft.yaml](https://github.com/snapcrafters/quadrapassel/blob/master/snap/snapcraft.yaml)
+upstream so quadrapassel can authoritatively publish future releases.
 
-  - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/fork-and-rename-me) repository to your own GitHub account
-  - [ ] Rename the forked Snapcrafters template repository
-  - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
-  - [ ] Create a snap that runs in `devmode`
-  - [ ] Register the snap in the store, **using the preferred upstream name**
-  - [ ] Add a screenshot to this `README.md`
-  - [ ] Publish the `devmode` snap in the Snap store edge channel
-  - [ ] Add install instructions to this `README.md`
-  - [ ] Update snap store metadata, icons and screenshots
-  - [ ] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
+  - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/quadrapassel) repository to your own GitHub account
+  - [x] Rename the forked Snapcrafters template repository
+  - [x] Update logos and references to `quadrapassel` and `[my-snap-name]`
+  - [x] Create a snap that runs in `devmode`
+  - [x] Register the snap in the store, **using the preferred upstream name**
+  - [x] Add a screenshot to this `README.md`
+  - [x] Publish the `devmode` snap in the Snap store edge channel
+  - [x] Add install instructions to this `README.md`
+  - [x] Update snap store metadata, icons and screenshots
+  - [x] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
   - [ ] Publish the confined snap in the Snap store beta channel
   - [ ] Update the install instructions in this `README.md`
   - [ ] Post a call for testing on the [Snapcraft Forum](https://forum.snapcraft.io) - [link]()
@@ -63,9 +62,9 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 
 ## The Snapcrafters
 
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/kenvandine/) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
+| [Your Name](https://github.com/kenvandine/) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
