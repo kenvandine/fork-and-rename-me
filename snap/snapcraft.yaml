@@ -64,7 +64,10 @@ parts:
     configflags: [--prefix=/snap/quadrapassel/current/usr]
     organize:
       snap/quadrapassel/current/usr: usr
-    prepare:
+    prepare: |
+      apt install software-properties-common
+      add-apt-repository -y ppa:ubuntu-desktop/gnome-3-24
+      apt update
       sed -i.bak -e 's|=quadrapassel$|=${SNAP}/meta/gui/quadrapassel.png|g' data/quadrapassel.desktop.in
     install: |
       mkdir -p $SNAPCRAFT_PART_INSTALL/meta/gui/
